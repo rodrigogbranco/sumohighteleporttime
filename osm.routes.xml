@@ -1,0 +1,51 @@
+<routes>
+	<flow id="0" from="end1_junction" to="junction_end3" begin="0" end="1249" probability="0.025" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+	<flow id="1" from="end1_junction" to="junction_end4" begin="0"  end="1249" probability="0.10" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+	<flow id="2" from="end1_junction" to="junction_end2" begin="0"  end="1249" probability="0.10" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+	<flow id="4" from="end1_junction" to="junction_end5" begin="0"  end="1249" probability="0.025" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+	<flow id="5" from="end1_junction" to="junction_end6" begin="0"  end="1249" probability="0.025" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+	<flow id="6" from="end1_junction" to="junction_end7" begin="0"  end="1249" probability="0.025" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+
+	<flow id="7" from="end2_junction" to="junction_end1" begin="0"  end="1249" probability="0.10" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+	<flow id="8" from="end2_junction" to="junction_end3" begin="0"  end="1249" probability="0.025" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+	<flow id="9" from="end2_junction" to="junction_end4" begin="0"  end="1249" probability="0.10" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+	<flow id="10" from="end2_junction" to="junction_end5" begin="0"  end="1249" probability="0.025" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+	<flow id="11" from="end2_junction" to="junction_end6" begin="0"  end="1249" probability="0.025" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+	<flow id="12" from="end2_junction" to="junction_end7" begin="0"  end="1249" probability="0.025" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>	
+
+	<flow id="13" from="end3_junction" to="junction_end1" begin="0"  end="1249" probability="0.10" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+	<flow id="14" from="end3_junction" to="junction_end2" begin="0"  end="1249" probability="0.10" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+	<flow id="15" from="end3_junction" to="junction_end4" begin="0"  end="1249" probability="0.10" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+
+	<flow id="19" from="end4_junction" to="junction_end1" begin="0"  end="1249" probability="0.10" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+	<flow id="20" from="end4_junction" to="junction_end2" begin="0"  end="1249" probability="0.10" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+	<flow id="21" from="end4_junction" to="junction_end3" begin="0"  end="1249" probability="0.025" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>			
+	<flow id="22" from="end4_junction" to="junction_end5" begin="0"  end="1249" probability="0.025" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+	<flow id="23" from="end4_junction" to="junction_end6" begin="0"  end="1249" probability="0.025" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+	<flow id="24" from="end4_junction" to="junction_end7" begin="0"  end="1249" probability="0.025" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+
+	<flow id="25" from="end5_junction" to="junction_end1" begin="0"  end="1249" probability="0.025" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+	<flow id="26" from="end5_junction" to="junction_end2" begin="0"  end="1249" probability="0.025" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+	<flow id="27" from="end5_junction" to="junction_end3" begin="0"  end="1249" probability="0.025" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>			
+	<flow id="28" from="end5_junction" to="junction_end4" begin="0"  end="1249" probability="0.025" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+	<flow id="29" from="end5_junction" to="junction_end6" begin="0"  end="1249" probability="0.10" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+	<flow id="30" from="end5_junction" to="junction_end7" begin="0"  end="1249" probability="0.10" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>			
+
+	<flow id="31" from="end6_junction" to="junction_end1" begin="0"  end="1249" probability="0.025" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+	<flow id="32" from="end6_junction" to="junction_end2" begin="0"  end="1249" probability="0.025" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+	<flow id="33" from="end6_junction" to="junction_end3" begin="0"  end="1249" probability="0.025" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>			
+	<flow id="34" from="end6_junction" to="junction_end4" begin="0"  end="1249" probability="0.025" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+	<flow id="35" from="end6_junction" to="junction_end5" begin="0"  end="1249" probability="0.10" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+	<flow id="36" from="end6_junction" to="junction_end7" begin="0"  end="1249" probability="0.10" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>	
+
+	<flow id="37" from="end7_junction" to="junction_end1" begin="0"  end="1249" probability="0.025" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+	<flow id="38" from="end7_junction" to="junction_end2" begin="0"  end="1249" probability="0.025" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+	<flow id="39" from="end7_junction" to="junction_end3" begin="0"  end="1249" probability="0.025" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>			
+	<flow id="40" from="end7_junction" to="junction_end4" begin="0"  end="1249" probability="0.025" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+	<flow id="41" from="end7_junction" to="junction_end5" begin="0"  end="1249" probability="0.10" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+	<flow id="42" from="end7_junction" to="junction_end6" begin="0"  end="1249" probability="0.10" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+
+	<flow id="43" from="junction_end3" to="junction_end5" begin="0"  end="1249" probability="0.10" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+	<flow id="44" from="junction_end3" to="junction_end6" begin="0"  end="1249" probability="0.10" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>
+	<flow id="45" from="junction_end3" to="junction_end7" begin="0"  end="1249" probability="0.10" type="veh_passenger" departPos="base" departSpeed="max" departLane="best"/>				
+</routes>

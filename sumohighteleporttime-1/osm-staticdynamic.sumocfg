@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.sf.net/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="../osm.net.xml"/>
+        <route-files value="../osm.routes.xml"/>
+        <additional-files value="../osm.vtype.xml"/>
+    </input>
+
+    <processing>
+        <ignore-route-errors value="true"/>
+    </processing>
+
+    <routing>
+        <device.rerouting.adaptation-steps value="180"/>
+    </routing>
+
+    <report>
+        <verbose value="true"/>
+        <duration-log.statistics value="true"/>
+        <no-step-log value="true"/>
+        <no-warnings value="true"/>
+    </report>                  
+
+    <!--<time>
+        <begin value="0"/>
+        <end value="15000"/>
+        <step-length value="0.01"/>
+    </time>-->
+
+    <gui_only>
+        <!--<start value="true"/>-->
+        <gui-settings-file value="../osm.gui.xml"/>
+    </gui_only>
+</configuration>

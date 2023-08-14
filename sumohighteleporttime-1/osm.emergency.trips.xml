@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+  <trip depart="1250.00" departLane="best" departSpeed="max" from="end1_junction" id="vehev1" to="junction_end3" type="ev_passenger" />
+</routes>

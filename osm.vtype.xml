@@ -1,0 +1,4 @@
+<additional>
+    <vType id="veh_passenger" vClass="passenger"/>
+    <vType id="ev_passenger" vClass="passenger" jmIgnoreFoeProb="1" jmIgnoreFoeSpeed="0" speedDev="0"/>
+</additional>
