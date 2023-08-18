@@ -1,0 +1,1 @@
+{"n_vehs": 1594, "stats": {}, "last_edge": {}, "vehs": {"vehev1": ["994.90", "4807.00", "4752.85", "1268.00", "6075.00", 272, 271, 2, 1]}, "tls": {}, "avg_trip_speed": "0.35", "evs_teleported": [], "avg_trip_timeloss": "3915.34", "n_teleported": 25, "affected": [], "param": ["1.00", "10000.00", "211.44"], "evs": ["vehev1"]}
